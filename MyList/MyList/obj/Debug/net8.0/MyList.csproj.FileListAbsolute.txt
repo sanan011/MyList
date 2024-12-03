@@ -1,0 +1,15 @@
+C:\Users\AzEduNet\source\repos\MyList\MyList\bin\Debug\net8.0\MyList.exe
+C:\Users\AzEduNet\source\repos\MyList\MyList\bin\Debug\net8.0\MyList.deps.json
+C:\Users\AzEduNet\source\repos\MyList\MyList\bin\Debug\net8.0\MyList.runtimeconfig.json
+C:\Users\AzEduNet\source\repos\MyList\MyList\bin\Debug\net8.0\MyList.dll
+C:\Users\AzEduNet\source\repos\MyList\MyList\bin\Debug\net8.0\MyList.pdb
+C:\Users\AzEduNet\source\repos\MyList\MyList\obj\Debug\net8.0\MyList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AzEduNet\source\repos\MyList\MyList\obj\Debug\net8.0\MyList.AssemblyInfoInputs.cache
+C:\Users\AzEduNet\source\repos\MyList\MyList\obj\Debug\net8.0\MyList.AssemblyInfo.cs
+C:\Users\AzEduNet\source\repos\MyList\MyList\obj\Debug\net8.0\MyList.csproj.CoreCompileInputs.cache
+C:\Users\AzEduNet\source\repos\MyList\MyList\obj\Debug\net8.0\MyList.sourcelink.json
+C:\Users\AzEduNet\source\repos\MyList\MyList\obj\Debug\net8.0\MyList.dll
+C:\Users\AzEduNet\source\repos\MyList\MyList\obj\Debug\net8.0\refint\MyList.dll
+C:\Users\AzEduNet\source\repos\MyList\MyList\obj\Debug\net8.0\MyList.pdb
+C:\Users\AzEduNet\source\repos\MyList\MyList\obj\Debug\net8.0\MyList.genruntimeconfig.cache
+C:\Users\AzEduNet\source\repos\MyList\MyList\obj\Debug\net8.0\ref\MyList.dll

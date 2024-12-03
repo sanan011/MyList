@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AzEduNet\\source\\repos\\MyList\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B0698768-5433-4176-A860-D797690E4F0D}|MyList\\MyList.csproj|c:\\users\\azedunet\\source\\repos\\mylist\\mylist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0698768-5433-4176-A860-D797690E4F0D}|MyList\\MyList.csproj|solutionrelative:mylist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0698768-5433-4176-A860-D797690E4F0D}|MyList\\MyList.csproj|c:\\users\\azedunet\\source\\repos\\mylist\\mylist\\models\\listoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0698768-5433-4176-A860-D797690E4F0D}|MyList\\MyList.csproj|solutionrelative:mylist\\models\\listoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0698768-5433-4176-A860-D797690E4F0D}|MyList\\MyList.csproj|c:\\users\\azedunet\\source\\repos\\mylist\\mylist\\models\\customlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0698768-5433-4176-A860-D797690E4F0D}|MyList\\MyList.csproj|solutionrelative:mylist\\models\\customlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0698768-5433-4176-A860-D797690E4F0D}|MyList\\MyList.csproj|c:\\users\\azedunet\\source\\repos\\mylist\\mylist\\interfaces\\ilistoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0698768-5433-4176-A860-D797690E4F0D}|MyList\\MyList.csproj|solutionrelative:mylist\\interfaces\\ilistoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ListOperations.cs",
+              "DocumentMoniker": "C:\\Users\\AzEduNet\\source\\repos\\MyList\\MyList\\Models\\ListOperations.cs",
+              "RelativeDocumentMoniker": "MyList\\Models\\ListOperations.cs",
+              "ToolTip": "C:\\Users\\AzEduNet\\source\\repos\\MyList\\MyList\\Models\\ListOperations.cs*",
+              "RelativeToolTip": "MyList\\Models\\ListOperations.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T06:25:35.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomList.cs",
+              "DocumentMoniker": "C:\\Users\\AzEduNet\\source\\repos\\MyList\\MyList\\Models\\CustomList.cs",
+              "RelativeDocumentMoniker": "MyList\\Models\\CustomList.cs",
+              "ToolTip": "C:\\Users\\AzEduNet\\source\\repos\\MyList\\MyList\\Models\\CustomList.cs*",
+              "RelativeToolTip": "MyList\\Models\\CustomList.cs*",
+              "ViewState": "AgIAABcAAAAAAAAAAAAmwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T06:25:07.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\AzEduNet\\source\\repos\\MyList\\MyList\\Program.cs",
+              "RelativeDocumentMoniker": "MyList\\Program.cs",
+              "ToolTip": "C:\\Users\\AzEduNet\\source\\repos\\MyList\\MyList\\Program.cs*",
+              "RelativeToolTip": "MyList\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T06:21:50.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IListOperations.cs",
+              "DocumentMoniker": "C:\\Users\\AzEduNet\\source\\repos\\MyList\\MyList\\Interfaces\\IListOperations.cs",
+              "RelativeDocumentMoniker": "MyList\\Interfaces\\IListOperations.cs",
+              "ToolTip": "C:\\Users\\AzEduNet\\source\\repos\\MyList\\MyList\\Interfaces\\IListOperations.cs*",
+              "RelativeToolTip": "MyList\\Interfaces\\IListOperations.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T06:26:11.117Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
